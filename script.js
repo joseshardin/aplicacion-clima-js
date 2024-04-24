@@ -1,5 +1,5 @@
 let urlBase = 'https://api.openweathermap.org/data/2.5/weather'
-let api_key = '011b0f1e156ddcbf141c2ff476fadeb0'
+let api_key = 'xxxxxxxxxxxxxx'
 let difKelvin = 273.15
 
 document.getElementById('botonBusqueda').addEventListener('click', () => {
